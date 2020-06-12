@@ -49,6 +49,11 @@ button{
     flex-direction: column;
 }
 
+.color:hover{
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+
 .inner_color{
     flex:1;
     width: 100%;
